@@ -1,6 +1,7 @@
 # Fashion-Shopping-Store
 
 This application uses React, NodeJS, and the Stripe API to create a full shopping e-commerce experience!
+To use, install node and npm install to run react packages.
 
 ### Home page
 
